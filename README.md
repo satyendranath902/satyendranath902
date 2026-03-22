@@ -32,6 +32,7 @@
 ## ☁️ **DevOps & Cloud**
 <div align="center">
 <img src="https://img.shields.io/badge/PCF-00A4E4?style=for-the-badge&logo=pivotal&logoColor=white" alt="PCF" />
+<img src="https://img.shields.io/badge/Azure-00A4E8?style=for-the-badge&logo=pivotal&logoColor=white" alt="PCF" />
 <img src="https://img.shields.io/badge/OCP-35A1E8?style=for-the-badge&logo=openshift&logoColor=white" alt="OCP" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
