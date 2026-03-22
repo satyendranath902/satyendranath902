@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Satyendra Nath Samaddar
 
-<!--
-**satyendranath902/satyendranath902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Java Engineer @ Wells Fargo** | **13+ YOE** | **Bengaluru**
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Expertise
+Languages
+Java Python JavaScript TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Libraries
+Spring Boot React Node.js 
+
+Databases & Caching
+MySQL MongoDB Redis  Oracle 
+
+DevOps & Cloud
+PCF OCP Docker Kubernetes Jenkins GitHub Actions Harness
+
+Monitoring & Observability
+Prometheus Grafana SonarQube
+
+Testing & Quality
+JUnit Selenium Jest
+
+Message Queues & Streaming
+Kafka MQ
+
+API & Protocols
+REST API  WebSocket Swagger
+
+
+## 🏆 Highlights
+- **Architected ECPR** - 60M tx/day banking platform
+- **Kafka Streams** - Real-time payment processing  
+- **mTLS + Venafi** - Zero-trust microservices security
+
+---
+**Let's connect!** 🚀 [LinkedIn](https://www.linkedin.com/in/satyendra-nath-samaddar-23b4384b/) | satyendranath902@email.com
