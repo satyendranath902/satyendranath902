@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Satyendra Nath Samaddar
 
-**Lead Java Engineer @ Wells Fargo** | **13+ YOE** | **Bengaluru**
-
 <div align="center">
 
 # 🛠️ **Tech Stack & Expertise**
